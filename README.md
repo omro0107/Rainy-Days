@@ -37,11 +37,16 @@ git clone https://github.com/omro0107/Rainy-Days.git
 ```
 
 2. Navigate to the project directory
+
+```bash
 cd Rainy-days-JS
+```
 
 3. Install the dependencies
 
+```bash
 npm install
+```
 
 ### Running
 
