@@ -9,6 +9,16 @@ This is a school project where I created a website using HTML and CSS.
 
 This website is a e-commerce selling clothes for rainy days. First, I designed the website using FIGMA, and then I built it using HTML for structure and CSS for styling.
 
+## Site architecture
+- Home
+- List of Jackets
+- Specific page showing the jacket
+- Cart
+- Checkout
+- Checkout success
+- About
+- Contact
+
 ## Built With
 
 - HTML
