@@ -56,6 +56,9 @@ To run the app, run the following commands:
 npm run start
 ```
 
+### Usage
+After starting the app, open your web browser and go to http://localhost:3000 to view the website.
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
